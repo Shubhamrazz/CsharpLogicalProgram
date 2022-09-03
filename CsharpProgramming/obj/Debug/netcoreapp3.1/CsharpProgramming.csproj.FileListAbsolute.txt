@@ -1,0 +1,14 @@
+C:\Users\nEW u\Documents\NEW_Csharp.NET\CFP_CodeFirst\CsharpProgramming\CsharpProgramming\bin\Debug\netcoreapp3.1\CsharpProgramming.exe
+C:\Users\nEW u\Documents\NEW_Csharp.NET\CFP_CodeFirst\CsharpProgramming\CsharpProgramming\bin\Debug\netcoreapp3.1\CsharpProgramming.deps.json
+C:\Users\nEW u\Documents\NEW_Csharp.NET\CFP_CodeFirst\CsharpProgramming\CsharpProgramming\bin\Debug\netcoreapp3.1\CsharpProgramming.runtimeconfig.json
+C:\Users\nEW u\Documents\NEW_Csharp.NET\CFP_CodeFirst\CsharpProgramming\CsharpProgramming\bin\Debug\netcoreapp3.1\CsharpProgramming.runtimeconfig.dev.json
+C:\Users\nEW u\Documents\NEW_Csharp.NET\CFP_CodeFirst\CsharpProgramming\CsharpProgramming\bin\Debug\netcoreapp3.1\CsharpProgramming.dll
+C:\Users\nEW u\Documents\NEW_Csharp.NET\CFP_CodeFirst\CsharpProgramming\CsharpProgramming\bin\Debug\netcoreapp3.1\CsharpProgramming.pdb
+C:\Users\nEW u\Documents\NEW_Csharp.NET\CFP_CodeFirst\CsharpProgramming\CsharpProgramming\obj\Debug\netcoreapp3.1\CsharpProgramming.csproj.AssemblyReference.cache
+C:\Users\nEW u\Documents\NEW_Csharp.NET\CFP_CodeFirst\CsharpProgramming\CsharpProgramming\obj\Debug\netcoreapp3.1\CsharpProgramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nEW u\Documents\NEW_Csharp.NET\CFP_CodeFirst\CsharpProgramming\CsharpProgramming\obj\Debug\netcoreapp3.1\CsharpProgramming.AssemblyInfoInputs.cache
+C:\Users\nEW u\Documents\NEW_Csharp.NET\CFP_CodeFirst\CsharpProgramming\CsharpProgramming\obj\Debug\netcoreapp3.1\CsharpProgramming.AssemblyInfo.cs
+C:\Users\nEW u\Documents\NEW_Csharp.NET\CFP_CodeFirst\CsharpProgramming\CsharpProgramming\obj\Debug\netcoreapp3.1\CsharpProgramming.csproj.CoreCompileInputs.cache
+C:\Users\nEW u\Documents\NEW_Csharp.NET\CFP_CodeFirst\CsharpProgramming\CsharpProgramming\obj\Debug\netcoreapp3.1\CsharpProgramming.dll
+C:\Users\nEW u\Documents\NEW_Csharp.NET\CFP_CodeFirst\CsharpProgramming\CsharpProgramming\obj\Debug\netcoreapp3.1\CsharpProgramming.pdb
+C:\Users\nEW u\Documents\NEW_Csharp.NET\CFP_CodeFirst\CsharpProgramming\CsharpProgramming\obj\Debug\netcoreapp3.1\CsharpProgramming.genruntimeconfig.cache
